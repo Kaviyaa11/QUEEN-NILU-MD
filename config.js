@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = '' // PQueenNilu;;;86wT3BZL#Z5idCgf1IIuqucFCuJwTRT_vRWopl-KgRggj2R5Ym2EUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://kavindu_cile_user:qRtiwqe5Abwe5a3nDCF2d91OrCYVIhr2@dpg-ckn0j6jusd9c73ebep10-a.frankfurt-postgres.render.com/kavindu_cile'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94702293379'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Black kavi'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -57,7 +57,13 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = '*හායි හලෝ🥺👐🏻*
+
+ {sender} 
+
+*😚😋මමනම් ඔන්ලයින් ළමයෝ ඔයාට මොනාද ඕනි ? 😍*
+
+ {uptime}' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
